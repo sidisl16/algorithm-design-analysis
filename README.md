@@ -1,2 +1,2 @@
 # algorithm-design-analysis
-Algorithm and design problems
+Algorithm and design programs
